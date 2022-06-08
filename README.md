@@ -1,2 +1,2 @@
 # Olympus Domains
-create tag "test-prod" for health check prod domains
+create tag "test-prod" to health check for prod domains
